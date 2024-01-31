@@ -1,11 +1,11 @@
 {
-    "name": "base_flutter",
-    "short_name": "base_flutter",
+    "name": "dung_de_test",
+    "short_name": "dung_de_test",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "base",
+    "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
